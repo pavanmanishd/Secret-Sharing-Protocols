@@ -1,7 +1,10 @@
 # Secret Sharing Protocols
 
 Event : HashEffect 2k23
-Position : 1st
+
+Position : 1st place
+
+Conducted by : [Catalog](https://github.com/catalogfi)
 
 ## Team Members
 
